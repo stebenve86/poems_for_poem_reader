@@ -1,0 +1,17 @@
+{
+	"Divine Comedy":{
+		"author":"Dante Alighieri",
+		"language": "English",
+		"translator": "Henry Wadsworth Longfellow",
+		"folder":"Divine_Comedy",
+		"chapters":[
+			"Hell",
+			"Purgatory",
+			"Paradise"
+		],
+		"Hell": "hell.txt.xz",
+		"Purgatory": "purgatory.txt.xz",
+		"Paradise": "paradise.txt.xz",
+		"separator" : "CANTO"
+	}
+}

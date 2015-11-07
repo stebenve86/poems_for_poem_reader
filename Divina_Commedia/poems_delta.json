@@ -1,0 +1,16 @@
+{
+	"Divina Commedia":{
+		"author":"Dante Alighieri",
+		"language": "Italian",
+		"folder":"Divina_Commedia",
+		"chapters":[
+			"Inferno",
+			"Purgatorio",
+			"Paradiso"
+		],
+		"Inferno": "inferno.txt.xz",
+		"Purgatorio": "purgatorio.txt.xz",
+		"Paradiso": "paradiso.txt.xz",
+		"separator" : "CANTO"
+	}
+}

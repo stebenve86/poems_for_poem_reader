@@ -1,0 +1,17 @@
+{
+	"Ciclo Omerico":{
+		"author":"Omero / Omero / Publio Virgilio Marone",
+		"language": "Italian",
+		"translator": "Vincenzo Monti / Ippolito Pindemonte / Annibale Caro",
+		"folder":"Ciclo_Omerico",
+		"chapters":[
+			"Iliade",
+			"Odissea",
+			"Eneide"
+		],
+		"Iliade": "iliade.txt.xz",
+		"Odissea": "odissea.txt.xz",
+		"Eneide": "eneide.txt.xz",
+		"separator" : "LIBRO"
+	}
+}
