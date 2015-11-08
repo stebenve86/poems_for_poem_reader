@@ -1,0 +1,17 @@
+{
+	"Homeric Epics":{
+		"author":"Homer / Homer / Virgil",
+		"language": "English",
+		"translator": "Alexander Pope / Alexander Pope / John Dryden",
+		"folder":"Homeric_Epics",
+		"chapters":[
+			"Iliad",
+			"Odyssey",
+			"Aeneid"
+		],
+		"Iliad": "iliad.txt.xz",
+		"Odyssey": "odyssey.txt.xz",
+		"Aeneid": "aeneid.txt.xz",
+		"separator" : "BOOK"
+	}
+}
